@@ -1,0 +1,1077 @@
+Type,Object,count,Group,Items,NItems,Proportion
+minecraft:crafting_shaped,acacia_boat,1,boat,['acacia_planks'],[5],[1.0]
+minecraft:crafting_shapeless,acacia_button,1,wooden_button,['acacia_planks'],[1],[1.0]
+minecraft:crafting_shapeless,acacia_chest_boat,1,chest_boat,"['chest', 'acacia_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,acacia_door,3,wooden_door,['acacia_planks'],[6],[1.0]
+minecraft:crafting_shaped,acacia_fence,3,wooden_fence,"['stick', 'acacia_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,acacia_fence_gate,1,wooden_fence_gate,"['stick', 'acacia_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,acacia_planks,4,planks,['acacia_logs'],[1],[1.0]
+minecraft:crafting_shaped,acacia_pressure_plate,1,wooden_pressure_plate,['acacia_planks'],[2],[1.0]
+minecraft:crafting_shaped,acacia_sign,3,wooden_sign,"['acacia_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,acacia_slab,6,wooden_slab,['acacia_planks'],[3],[1.0]
+minecraft:crafting_shaped,acacia_stairs,4,wooden_stairs,['acacia_planks'],[6],[1.0]
+minecraft:crafting_shaped,acacia_trapdoor,2,wooden_trapdoor,['acacia_planks'],[6],[1.0]
+minecraft:crafting_shaped,acacia_wood,3,bark,['acacia_log'],[4],[1.0]
+minecraft:crafting_shaped,activator_rail,6,,"['redstone_torch', 'stick', 'iron_ingot']","[1, 2, 6]","[0.1111111111111111, 0.2222222222222222, 0.6666666666666666]"
+minecraft:crafting_shaped,amethyst_block,1,,['amethyst_shard'],[4],[1.0]
+minecraft:crafting_shapeless,andesite,2,,"['diorite', 'cobblestone']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,andesite_slab,6,,['andesite'],[3],[1.0]
+minecraft:stonecutting,andesite_slab,1,,['andesite'],[1],[1.0]
+minecraft:crafting_shaped,andesite_stairs,4,,['andesite'],[6],[1.0]
+minecraft:stonecutting,andesite_stairs,1,,['andesite'],[1],[1.0]
+minecraft:crafting_shaped,andesite_wall,6,,['andesite'],[6],[1.0]
+minecraft:stonecutting,andesite_wall,1,,['andesite'],[1],[1.0]
+minecraft:crafting_shaped,anvil,1,,"['iron_block', 'iron_ingot']","[3, 4]","[0.42857142857142855, 0.5714285714285714]"
+minecraft:crafting_shaped,armor_stand,1,,"['stick', 'smooth_stone_slab']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,arrow,4,,"['stick', 'flint', 'feather']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:smelting,baked_potato,1,,['potato'],[1],[1.0]
+minecraft:campfire_cooking,baked_potato,1,,['potato'],[1],[1.0]
+minecraft:smoking,baked_potato,1,,['potato'],[1],[1.0]
+minecraft:crafting_shaped,barrel,1,,"['planks', 'wooden_slabs']","[6, 2]","[0.75, 0.25]"
+minecraft:crafting_shaped,beacon,1,,"['glass', 'obsidian', 'nether_star']","[5, 3, 1]","[0.5555555555555556, 0.3333333333333333, 0.1111111111111111]"
+minecraft:crafting_shaped,beehive,1,,"['honeycomb', 'planks']","[3, 6]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shapeless,beetroot_soup,1,,"['bowl', 'beetroot']","[1, 6]","[0.14285714285714285, 0.8571428571428571]"
+minecraft:crafting_shaped,birch_boat,1,boat,['birch_planks'],[5],[1.0]
+minecraft:crafting_shapeless,birch_button,1,wooden_button,['birch_planks'],[1],[1.0]
+minecraft:crafting_shapeless,birch_chest_boat,1,chest_boat,"['chest', 'birch_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,birch_door,3,wooden_door,['birch_planks'],[6],[1.0]
+minecraft:crafting_shaped,birch_fence,3,wooden_fence,"['stick', 'birch_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,birch_fence_gate,1,wooden_fence_gate,"['stick', 'birch_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,birch_planks,4,planks,['birch_logs'],[1],[1.0]
+minecraft:crafting_shaped,birch_pressure_plate,1,wooden_pressure_plate,['birch_planks'],[2],[1.0]
+minecraft:crafting_shaped,birch_sign,3,wooden_sign,"['birch_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,birch_slab,6,wooden_slab,['birch_planks'],[3],[1.0]
+minecraft:crafting_shaped,birch_stairs,4,wooden_stairs,['birch_planks'],[6],[1.0]
+minecraft:crafting_shaped,birch_trapdoor,2,wooden_trapdoor,['birch_planks'],[6],[1.0]
+minecraft:crafting_shaped,birch_wood,3,bark,['birch_log'],[4],[1.0]
+minecraft:crafting_shaped,blackstone_slab,6,,['blackstone'],[3],[1.0]
+minecraft:stonecutting,blackstone_slab,1,,['blackstone'],[1],[1.0]
+minecraft:crafting_shaped,blackstone_stairs,4,,['blackstone'],[6],[1.0]
+minecraft:stonecutting,blackstone_stairs,1,,['blackstone'],[1],[1.0]
+minecraft:crafting_shaped,blackstone_wall,6,,['blackstone'],[6],[1.0]
+minecraft:stonecutting,blackstone_wall,1,,['blackstone'],[1],[1.0]
+minecraft:crafting_shaped,black_banner,1,banner,"['black_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,black_bed,1,bed,"['black_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,black_bed,1,dyed_bed,"['white_bed', 'black_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,black_candle,1,dyed_candle,"['candle', 'black_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,black_carpet,3,carpet,['black_wool'],[2],[1.0]
+minecraft:crafting_shaped,black_carpet,8,carpet,"['white_carpet', 'black_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,black_concrete_powder,8,concrete_powder,"['black_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,black_dye,1,black_dye,['ink_sac'],[1],[1.0]
+minecraft:crafting_shapeless,black_dye,1,black_dye,['wither_rose'],[1],[1.0]
+minecraft:smelting,black_glazed_terracotta,1,,['black_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,black_stained_glass,8,stained_glass,"['glass', 'black_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,black_stained_glass_pane,16,stained_glass_pane,['black_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,black_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'black_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,black_terracotta,8,stained_terracotta,"['terracotta', 'black_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,black_wool,1,wool,"['black_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,blast_furnace,1,,"['smooth_stone', 'iron_ingot', 'furnace']","[3, 5, 1]","[0.3333333333333333, 0.5555555555555556, 0.1111111111111111]"
+minecraft:crafting_shapeless,blaze_powder,2,,['blaze_rod'],[1],[1.0]
+minecraft:crafting_shaped,blue_banner,1,banner,"['blue_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,blue_bed,1,bed,"['blue_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,blue_bed,1,dyed_bed,"['white_bed', 'blue_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,blue_candle,1,dyed_candle,"['candle', 'blue_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,blue_carpet,3,carpet,['blue_wool'],[2],[1.0]
+minecraft:crafting_shaped,blue_carpet,8,carpet,"['white_carpet', 'blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,blue_concrete_powder,8,concrete_powder,"['blue_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,blue_dye,1,blue_dye,['lapis_lazuli'],[1],[1.0]
+minecraft:crafting_shapeless,blue_dye,1,blue_dye,['cornflower'],[1],[1.0]
+minecraft:smelting,blue_glazed_terracotta,1,,['blue_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,blue_ice,1,,['packed_ice'],[9],[1.0]
+minecraft:crafting_shaped,blue_stained_glass,8,stained_glass,"['glass', 'blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,blue_stained_glass_pane,16,stained_glass_pane,['blue_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,blue_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,blue_terracotta,8,stained_terracotta,"['terracotta', 'blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,blue_wool,1,wool,"['blue_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,bone_block,1,,['bone_meal'],[9],[1.0]
+minecraft:crafting_shapeless,bone_meal,3,bonemeal,['bone'],[1],[1.0]
+minecraft:crafting_shapeless,bone_meal,9,bonemeal,['bone_block'],[1],[1.0]
+minecraft:crafting_shapeless,book,1,,"['paper', 'leather']","[3, 1]","[0.75, 0.25]"
+minecraft:crafting_shaped,bookshelf,1,,"['planks', 'book']","[6, 3]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,bow,1,,"['stick', 'string']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shaped,bowl,4,,['planks'],[3],[1.0]
+minecraft:crafting_shaped,bread,1,,['wheat'],[3],[1.0]
+minecraft:crafting_shaped,brewing_stand,1,,"['stone_crafting_materials', 'blaze_rod']","[3, 1]","[0.75, 0.25]"
+minecraft:smelting,brick,1,,['clay_ball'],[1],[1.0]
+minecraft:crafting_shaped,bricks,1,,['brick'],[4],[1.0]
+minecraft:crafting_shaped,brick_slab,6,,['bricks'],[3],[1.0]
+minecraft:stonecutting,brick_slab,1,,['bricks'],[1],[1.0]
+minecraft:crafting_shaped,brick_stairs,4,,['bricks'],[6],[1.0]
+minecraft:stonecutting,brick_stairs,1,,['bricks'],[1],[1.0]
+minecraft:crafting_shaped,brick_wall,6,,['bricks'],[6],[1.0]
+minecraft:stonecutting,brick_wall,1,,['bricks'],[1],[1.0]
+minecraft:crafting_shaped,brown_banner,1,banner,"['brown_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,brown_bed,1,bed,"['brown_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,brown_bed,1,dyed_bed,"['white_bed', 'brown_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,brown_candle,1,dyed_candle,"['candle', 'brown_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,brown_carpet,3,carpet,['brown_wool'],[2],[1.0]
+minecraft:crafting_shaped,brown_carpet,8,carpet,"['white_carpet', 'brown_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,brown_concrete_powder,8,concrete_powder,"['brown_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,brown_dye,1,brown_dye,['cocoa_beans'],[1],[1.0]
+minecraft:smelting,brown_glazed_terracotta,1,,['brown_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,brown_stained_glass,8,stained_glass,"['glass', 'brown_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,brown_stained_glass_pane,16,stained_glass_pane,['brown_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,brown_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'brown_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,brown_terracotta,8,stained_terracotta,"['terracotta', 'brown_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,brown_wool,1,wool,"['brown_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,bucket,1,,['iron_ingot'],[3],[1.0]
+minecraft:crafting_shaped,cake,1,,"['milk_bucket', 'sugar', 'wheat', 'egg']","[3, 2, 3, 1]","[0.3333333333333333, 0.2222222222222222, 0.3333333333333333, 0.1111111111111111]"
+minecraft:crafting_shaped,campfire,1,,"['coals', 'logs', 'stick']","[1, 3, 3]","[0.14285714285714285, 0.42857142857142855, 0.42857142857142855]"
+minecraft:crafting_shaped,candle,1,,"['honeycomb', 'string']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,carrot_on_a_stick,1,,"['fishing_rod', 'carrot']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,cartography_table,1,,"['planks', 'paper']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,cauldron,1,,['iron_ingot'],[7],[1.0]
+minecraft:crafting_shaped,chain,1,,"['iron_ingot', 'iron_nugget']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:smelting,charcoal,1,,['logs_that_burn'],[1],[1.0]
+minecraft:crafting_shaped,chest,1,,['planks'],[8],[1.0]
+minecraft:crafting_shapeless,chest_minecart,1,,"['chest', 'minecart']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,chiseled_deepslate,1,,['cobbled_deepslate_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_deepslate,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,chiseled_nether_bricks,1,,['nether_brick_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_nether_bricks,1,,['nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,chiseled_polished_blackstone,1,,['polished_blackstone_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_polished_blackstone,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,chiseled_polished_blackstone,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,chiseled_quartz_block,1,,['quartz_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_quartz_block,1,,['quartz_block'],[1],[1.0]
+minecraft:crafting_shaped,chiseled_red_sandstone,1,,['red_sandstone_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_red_sandstone,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,chiseled_sandstone,1,,['sandstone_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_sandstone,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,chiseled_stone_bricks,1,,['stone_brick_slab'],[2],[1.0]
+minecraft:stonecutting,chiseled_stone_bricks,1,,['stone_bricks'],[1],[1.0]
+minecraft:stonecutting,chiseled_stone_bricks,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,clay,1,,['clay_ball'],[4],[1.0]
+minecraft:crafting_shaped,clock,1,,"['gold_ingot', 'redstone']","[4, 1]","[0.8, 0.2]"
+minecraft:crafting_shapeless,coal,9,,['coal_block'],[1],[1.0]
+minecraft:crafting_shaped,coal_block,1,,['coal'],[9],[1.0]
+minecraft:blasting,coal,1,coal,['coal_ore'],[1],[1.0]
+minecraft:blasting,coal,1,coal,['deepslate_coal_ore'],[1],[1.0]
+minecraft:smelting,coal,1,coal,['coal_ore'],[1],[1.0]
+minecraft:smelting,coal,1,coal,['deepslate_coal_ore'],[1],[1.0]
+minecraft:crafting_shaped,coarse_dirt,4,,"['dirt', 'gravel']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,cobbled_deepslate_slab,6,,['cobbled_deepslate'],[3],[1.0]
+minecraft:stonecutting,cobbled_deepslate_slab,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,cobbled_deepslate_stairs,4,,['cobbled_deepslate'],[6],[1.0]
+minecraft:stonecutting,cobbled_deepslate_stairs,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,cobbled_deepslate_wall,6,,['cobbled_deepslate'],[6],[1.0]
+minecraft:stonecutting,cobbled_deepslate_wall,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,cobblestone_slab,6,,['cobblestone'],[3],[1.0]
+minecraft:stonecutting,cobblestone_slab,1,,['cobblestone'],[1],[1.0]
+minecraft:crafting_shaped,cobblestone_stairs,4,,['cobblestone'],[6],[1.0]
+minecraft:stonecutting,cobblestone_stairs,1,,['cobblestone'],[1],[1.0]
+minecraft:crafting_shaped,cobblestone_wall,6,,['cobblestone'],[6],[1.0]
+minecraft:stonecutting,cobblestone_wall,1,,['cobblestone'],[1],[1.0]
+minecraft:crafting_shaped,comparator,1,,"['redstone_torch', 'stone', 'quartz']","[3, 3, 1]","[0.42857142857142855, 0.42857142857142855, 0.14285714285714285]"
+minecraft:crafting_shaped,compass,1,,"['iron_ingot', 'redstone']","[4, 1]","[0.8, 0.2]"
+minecraft:crafting_shaped,composter,1,,['wooden_slabs'],[7],[1.0]
+minecraft:crafting_shaped,conduit,1,,"['nautilus_shell', 'heart_of_the_sea']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:smelting,cooked_beef,1,,['beef'],[1],[1.0]
+minecraft:campfire_cooking,cooked_beef,1,,['beef'],[1],[1.0]
+minecraft:smoking,cooked_beef,1,,['beef'],[1],[1.0]
+minecraft:smelting,cooked_chicken,1,,['chicken'],[1],[1.0]
+minecraft:campfire_cooking,cooked_chicken,1,,['chicken'],[1],[1.0]
+minecraft:smoking,cooked_chicken,1,,['chicken'],[1],[1.0]
+minecraft:smelting,cooked_cod,1,,['cod'],[1],[1.0]
+minecraft:campfire_cooking,cooked_cod,1,,['cod'],[1],[1.0]
+minecraft:smoking,cooked_cod,1,,['cod'],[1],[1.0]
+minecraft:smelting,cooked_mutton,1,,['mutton'],[1],[1.0]
+minecraft:campfire_cooking,cooked_mutton,1,,['mutton'],[1],[1.0]
+minecraft:smoking,cooked_mutton,1,,['mutton'],[1],[1.0]
+minecraft:smelting,cooked_porkchop,1,,['porkchop'],[1],[1.0]
+minecraft:campfire_cooking,cooked_porkchop,1,,['porkchop'],[1],[1.0]
+minecraft:smoking,cooked_porkchop,1,,['porkchop'],[1],[1.0]
+minecraft:smelting,cooked_rabbit,1,,['rabbit'],[1],[1.0]
+minecraft:campfire_cooking,cooked_rabbit,1,,['rabbit'],[1],[1.0]
+minecraft:smoking,cooked_rabbit,1,,['rabbit'],[1],[1.0]
+minecraft:smelting,cooked_salmon,1,,['salmon'],[1],[1.0]
+minecraft:campfire_cooking,cooked_salmon,1,,['salmon'],[1],[1.0]
+minecraft:smoking,cooked_salmon,1,,['salmon'],[1],[1.0]
+minecraft:crafting_shaped,cookie,8,,"['wheat', 'cocoa_beans']","[2, 1]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,copper_block,1,,['copper_ingot'],[9],[1.0]
+minecraft:crafting_shapeless,copper_ingot,9,copper_ingot,['copper_block'],[1],[1.0]
+minecraft:blasting,copper_ingot,1,copper_ingot,['copper_ore'],[1],[1.0]
+minecraft:blasting,copper_ingot,1,copper_ingot,['deepslate_copper_ore'],[1],[1.0]
+minecraft:blasting,copper_ingot,1,copper_ingot,['raw_copper'],[1],[1.0]
+minecraft:smelting,copper_ingot,1,copper_ingot,['copper_ore'],[1],[1.0]
+minecraft:smelting,copper_ingot,1,copper_ingot,['deepslate_copper_ore'],[1],[1.0]
+minecraft:smelting,copper_ingot,1,copper_ingot,['raw_copper'],[1],[1.0]
+minecraft:crafting_shapeless,copper_ingot,9,copper_ingot,['waxed_copper_block'],[1],[1.0]
+minecraft:smelting,cracked_deepslate_bricks,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:smelting,cracked_deepslate_tiles,1,,['deepslate_tiles'],[1],[1.0]
+minecraft:smelting,cracked_nether_bricks,1,,['nether_bricks'],[1],[1.0]
+minecraft:smelting,cracked_polished_blackstone_bricks,1,,['polished_blackstone_bricks'],[1],[1.0]
+minecraft:smelting,cracked_stone_bricks,1,,['stone_bricks'],[1],[1.0]
+minecraft:crafting_shaped,crafting_table,1,,['planks'],[4],[1.0]
+minecraft:crafting_shapeless,creeper_banner_pattern,1,,"['paper', 'creeper_head']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,crimson_button,1,wooden_button,['crimson_planks'],[1],[1.0]
+minecraft:crafting_shaped,crimson_door,3,wooden_door,['crimson_planks'],[6],[1.0]
+minecraft:crafting_shaped,crimson_fence,3,wooden_fence,"['stick', 'crimson_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,crimson_fence_gate,1,wooden_fence_gate,"['stick', 'crimson_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,crimson_hyphae,3,bark,['crimson_stem'],[4],[1.0]
+minecraft:crafting_shapeless,crimson_planks,4,planks,['crimson_stems'],[1],[1.0]
+minecraft:crafting_shaped,crimson_pressure_plate,1,wooden_pressure_plate,['crimson_planks'],[2],[1.0]
+minecraft:crafting_shaped,crimson_sign,3,wooden_sign,"['crimson_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,crimson_slab,6,wooden_slab,['crimson_planks'],[3],[1.0]
+minecraft:crafting_shaped,crimson_stairs,4,wooden_stairs,['crimson_planks'],[6],[1.0]
+minecraft:crafting_shaped,crimson_trapdoor,2,wooden_trapdoor,['crimson_planks'],[6],[1.0]
+minecraft:crafting_shaped,crossbow,1,,"['stick', 'tripwire_hook', 'iron_ingot', 'string']","[3, 1, 1, 2]","[0.42857142857142855, 0.14285714285714285, 0.14285714285714285, 0.2857142857142857]"
+minecraft:crafting_shaped,cut_copper,4,,['copper_block'],[4],[1.0]
+minecraft:stonecutting,cut_copper,1,,['copper_block'],[1],[1.0]
+minecraft:crafting_shaped,cut_copper_slab,6,,['cut_copper'],[3],[1.0]
+minecraft:stonecutting,cut_copper_slab,1,,['copper_block'],[1],[1.0]
+minecraft:stonecutting,cut_copper_slab,1,,['cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,cut_copper_stairs,4,,['cut_copper'],[6],[1.0]
+minecraft:stonecutting,cut_copper_stairs,1,,['copper_block'],[1],[1.0]
+minecraft:stonecutting,cut_copper_stairs,1,,['cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,cut_red_sandstone,4,,['red_sandstone'],[4],[1.0]
+minecraft:stonecutting,cut_red_sandstone,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,cut_red_sandstone_slab,6,,['cut_red_sandstone'],[3],[1.0]
+minecraft:stonecutting,cut_red_sandstone_slab,1,,['cut_red_sandstone'],[1],[1.0]
+minecraft:stonecutting,cut_red_sandstone_slab,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,cut_sandstone,4,,['sandstone'],[4],[1.0]
+minecraft:stonecutting,cut_sandstone,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,cut_sandstone_slab,6,,['cut_sandstone'],[3],[1.0]
+minecraft:stonecutting,cut_sandstone_slab,1,,['cut_sandstone'],[1],[1.0]
+minecraft:stonecutting,cut_sandstone_slab,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,cyan_banner,1,banner,"['cyan_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,cyan_bed,1,bed,"['cyan_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,cyan_bed,1,dyed_bed,"['white_bed', 'cyan_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,cyan_candle,1,dyed_candle,"['candle', 'cyan_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,cyan_carpet,3,carpet,['cyan_wool'],[2],[1.0]
+minecraft:crafting_shaped,cyan_carpet,8,carpet,"['white_carpet', 'cyan_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,cyan_concrete_powder,8,concrete_powder,"['cyan_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,cyan_dye,2,,"['blue_dye', 'green_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,cyan_glazed_terracotta,1,,['cyan_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,cyan_stained_glass,8,stained_glass,"['glass', 'cyan_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,cyan_stained_glass_pane,16,stained_glass_pane,['cyan_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,cyan_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'cyan_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,cyan_terracotta,8,stained_terracotta,"['terracotta', 'cyan_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,cyan_wool,1,wool,"['cyan_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,dark_oak_boat,1,boat,['dark_oak_planks'],[5],[1.0]
+minecraft:crafting_shapeless,dark_oak_button,1,wooden_button,['dark_oak_planks'],[1],[1.0]
+minecraft:crafting_shapeless,dark_oak_chest_boat,1,chest_boat,"['chest', 'dark_oak_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,dark_oak_door,3,wooden_door,['dark_oak_planks'],[6],[1.0]
+minecraft:crafting_shaped,dark_oak_fence,3,wooden_fence,"['stick', 'dark_oak_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,dark_oak_fence_gate,1,wooden_fence_gate,"['stick', 'dark_oak_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,dark_oak_planks,4,planks,['dark_oak_logs'],[1],[1.0]
+minecraft:crafting_shaped,dark_oak_pressure_plate,1,wooden_pressure_plate,['dark_oak_planks'],[2],[1.0]
+minecraft:crafting_shaped,dark_oak_sign,3,wooden_sign,"['dark_oak_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,dark_oak_slab,6,wooden_slab,['dark_oak_planks'],[3],[1.0]
+minecraft:crafting_shaped,dark_oak_stairs,4,wooden_stairs,['dark_oak_planks'],[6],[1.0]
+minecraft:crafting_shaped,dark_oak_trapdoor,2,wooden_trapdoor,['dark_oak_planks'],[6],[1.0]
+minecraft:crafting_shaped,dark_oak_wood,3,bark,['dark_oak_log'],[4],[1.0]
+minecraft:crafting_shaped,dark_prismarine,1,,"['black_dye', 'prismarine_shard']","[1, 8]","[0.1111111111111111, 0.8888888888888888]"
+minecraft:crafting_shaped,dark_prismarine_slab,6,,['dark_prismarine'],[3],[1.0]
+minecraft:stonecutting,dark_prismarine_slab,1,,['dark_prismarine'],[1],[1.0]
+minecraft:crafting_shaped,dark_prismarine_stairs,4,,['dark_prismarine'],[6],[1.0]
+minecraft:stonecutting,dark_prismarine_stairs,1,,['dark_prismarine'],[1],[1.0]
+minecraft:crafting_shaped,daylight_detector,1,,"['glass', 'quartz', 'wooden_slabs']","[3, 3, 3]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:smelting,deepslate,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_bricks,4,,['polished_deepslate'],[4],[1.0]
+minecraft:stonecutting,deepslate_bricks,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_bricks,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_brick_slab,6,,['deepslate_bricks'],[3],[1.0]
+minecraft:stonecutting,deepslate_brick_slab,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_brick_slab,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_brick_slab,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_brick_stairs,4,,['deepslate_bricks'],[6],[1.0]
+minecraft:stonecutting,deepslate_brick_stairs,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_brick_stairs,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_brick_stairs,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_brick_wall,6,,['deepslate_bricks'],[6],[1.0]
+minecraft:stonecutting,deepslate_brick_wall,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_brick_wall,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_brick_wall,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_tiles,4,,['deepslate_bricks'],[4],[1.0]
+minecraft:stonecutting,deepslate_tiles,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_tiles,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_tiles,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_tile_slab,6,,['deepslate_tiles'],[3],[1.0]
+minecraft:stonecutting,deepslate_tile_slab,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_slab,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_slab,1,,['deepslate_tiles'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_slab,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_tile_stairs,4,,['deepslate_tiles'],[6],[1.0]
+minecraft:stonecutting,deepslate_tile_stairs,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_stairs,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_stairs,1,,['deepslate_tiles'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_stairs,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,deepslate_tile_wall,6,,['deepslate_tiles'],[6],[1.0]
+minecraft:stonecutting,deepslate_tile_wall,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_wall,1,,['deepslate_bricks'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_wall,1,,['deepslate_tiles'],[1],[1.0]
+minecraft:stonecutting,deepslate_tile_wall,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,detector_rail,6,,"['stone_pressure_plate', 'redstone', 'iron_ingot']","[1, 1, 6]","[0.125, 0.125, 0.75]"
+minecraft:crafting_shapeless,diamond,9,,['diamond_block'],[1],[1.0]
+minecraft:crafting_shaped,diamond_axe,1,,"['stick', 'diamond']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,diamond_block,1,,['diamond'],[9],[1.0]
+minecraft:crafting_shaped,diamond_boots,1,,['diamond'],[4],[1.0]
+minecraft:crafting_shaped,diamond_chestplate,1,,['diamond'],[8],[1.0]
+minecraft:blasting,diamond,1,diamond,['deepslate_diamond_ore'],[1],[1.0]
+minecraft:blasting,diamond,1,diamond,['diamond_ore'],[1],[1.0]
+minecraft:smelting,diamond,1,diamond,['deepslate_diamond_ore'],[1],[1.0]
+minecraft:smelting,diamond,1,diamond,['diamond_ore'],[1],[1.0]
+minecraft:crafting_shaped,diamond_helmet,1,,['diamond'],[5],[1.0]
+minecraft:crafting_shaped,diamond_hoe,1,,"['stick', 'diamond']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,diamond_leggings,1,,['diamond'],[7],[1.0]
+minecraft:crafting_shaped,diamond_pickaxe,1,,"['stick', 'diamond']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,diamond_shovel,1,,"['stick', 'diamond']","[2, 1]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,diamond_sword,1,,"['stick', 'diamond']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,diorite,2,,"['cobblestone', 'quartz']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,diorite_slab,6,,['diorite'],[3],[1.0]
+minecraft:stonecutting,diorite_slab,1,,['diorite'],[1],[1.0]
+minecraft:crafting_shaped,diorite_stairs,4,,['diorite'],[6],[1.0]
+minecraft:stonecutting,diorite_stairs,1,,['diorite'],[1],[1.0]
+minecraft:crafting_shaped,diorite_wall,6,,['diorite'],[6],[1.0]
+minecraft:stonecutting,diorite_wall,1,,['diorite'],[1],[1.0]
+minecraft:crafting_shaped,dispenser,1,,"['cobblestone', 'redstone', 'bow']","[7, 1, 1]","[0.7777777777777778, 0.1111111111111111, 0.1111111111111111]"
+minecraft:crafting_shapeless,dried_kelp,9,,['dried_kelp_block'],[1],[1.0]
+minecraft:crafting_shaped,dried_kelp_block,1,,['dried_kelp'],[9],[1.0]
+minecraft:campfire_cooking,dried_kelp,1,,['kelp'],[1],[1.0]
+minecraft:smelting,dried_kelp,1,,['kelp'],[1],[1.0]
+minecraft:smoking,dried_kelp,1,,['kelp'],[1],[1.0]
+minecraft:crafting_shaped,dripstone_block,1,pointed_dripstone,['pointed_dripstone'],[4],[1.0]
+minecraft:crafting_shaped,dropper,1,,"['cobblestone', 'redstone']","[7, 1]","[0.875, 0.125]"
+minecraft:crafting_shapeless,emerald,9,,['emerald_block'],[1],[1.0]
+minecraft:crafting_shaped,emerald_block,1,,['emerald'],[9],[1.0]
+minecraft:blasting,emerald,1,emerald,['deepslate_emerald_ore'],[1],[1.0]
+minecraft:blasting,emerald,1,emerald,['emerald_ore'],[1],[1.0]
+minecraft:smelting,emerald,1,emerald,['deepslate_emerald_ore'],[1],[1.0]
+minecraft:smelting,emerald,1,emerald,['emerald_ore'],[1],[1.0]
+minecraft:crafting_shaped,enchanting_table,1,,"['obsidian', 'book', 'diamond']","[4, 1, 2]","[0.5714285714285714, 0.14285714285714285, 0.2857142857142857]"
+minecraft:crafting_shaped,ender_chest,1,,"['obsidian', 'ender_eye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,ender_eye,1,,"['ender_pearl', 'blaze_powder']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,end_crystal,1,,"['ender_eye', 'glass', 'ghast_tear']","[1, 7, 1]","[0.1111111111111111, 0.7777777777777778, 0.1111111111111111]"
+minecraft:crafting_shaped,end_rod,4,,"['popped_chorus_fruit', 'blaze_rod']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,end_stone_bricks,4,,['end_stone'],[4],[1.0]
+minecraft:stonecutting,end_stone_bricks,1,,['end_stone'],[1],[1.0]
+minecraft:crafting_shaped,end_stone_brick_slab,6,,['end_stone_bricks'],[3],[1.0]
+minecraft:stonecutting,end_stone_brick_slab,1,,['end_stone_bricks'],[1],[1.0]
+minecraft:stonecutting,end_stone_brick_slab,1,,['end_stone'],[1],[1.0]
+minecraft:crafting_shaped,end_stone_brick_stairs,4,,['end_stone_bricks'],[6],[1.0]
+minecraft:stonecutting,end_stone_brick_stairs,1,,['end_stone_bricks'],[1],[1.0]
+minecraft:stonecutting,end_stone_brick_stairs,1,,['end_stone'],[1],[1.0]
+minecraft:crafting_shaped,end_stone_brick_wall,6,,['end_stone_bricks'],[6],[1.0]
+minecraft:stonecutting,end_stone_brick_wall,1,,['end_stone_bricks'],[1],[1.0]
+minecraft:stonecutting,end_stone_brick_wall,1,,['end_stone'],[1],[1.0]
+minecraft:crafting_shaped,exposed_cut_copper,4,,['exposed_copper'],[4],[1.0]
+minecraft:stonecutting,exposed_cut_copper,1,,['exposed_copper'],[1],[1.0]
+minecraft:crafting_shaped,exposed_cut_copper_slab,6,,['exposed_cut_copper'],[3],[1.0]
+minecraft:stonecutting,exposed_cut_copper_slab,1,,['exposed_copper'],[1],[1.0]
+minecraft:stonecutting,exposed_cut_copper_slab,1,,['exposed_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,exposed_cut_copper_stairs,4,,['exposed_cut_copper'],[6],[1.0]
+minecraft:stonecutting,exposed_cut_copper_stairs,1,,['exposed_copper'],[1],[1.0]
+minecraft:stonecutting,exposed_cut_copper_stairs,1,,['exposed_cut_copper'],[1],[1.0]
+minecraft:crafting_shapeless,fermented_spider_eye,1,,"['spider_eye', 'brown_mushroom', 'sugar']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shapeless,firework_rocket,3,,"['gunpowder', 'paper']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,fire_charge,3,,"['gunpowder', 'blaze_powder', ['coal', 'charcoal']]","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shaped,fishing_rod,1,,"['stick', 'string']","[3, 2]","[0.6, 0.4]"
+minecraft:crafting_shaped,fletching_table,1,,"['planks', 'flint']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,flint_and_steel,1,,"['iron_ingot', 'flint']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,flower_banner_pattern,1,,"['paper', 'oxeye_daisy']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,flower_pot,1,,['brick'],[3],[1.0]
+minecraft:crafting_shaped,furnace,1,,['stone_crafting_materials'],[8],[1.0]
+minecraft:crafting_shapeless,furnace_minecart,1,,"['furnace', 'minecart']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,glass,1,,['sand'],[1],[1.0]
+minecraft:crafting_shaped,glass_bottle,3,,['glass'],[3],[1.0]
+minecraft:crafting_shaped,glass_pane,16,,['glass'],[6],[1.0]
+minecraft:crafting_shaped,glistering_melon_slice,1,,"['gold_nugget', 'melon_slice']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,glowstone,1,,['glowstone_dust'],[4],[1.0]
+minecraft:crafting_shapeless,glow_item_frame,1,,"['item_frame', 'glow_ink_sac']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,golden_apple,1,,"['gold_ingot', 'apple']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,golden_axe,1,,"['stick', 'gold_ingot']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,golden_boots,1,,['gold_ingot'],[4],[1.0]
+minecraft:crafting_shaped,golden_carrot,1,,"['gold_nugget', 'carrot']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,golden_chestplate,1,,['gold_ingot'],[8],[1.0]
+minecraft:crafting_shaped,golden_helmet,1,,['gold_ingot'],[5],[1.0]
+minecraft:crafting_shaped,golden_hoe,1,,"['stick', 'gold_ingot']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,golden_leggings,1,,['gold_ingot'],[7],[1.0]
+minecraft:crafting_shaped,golden_pickaxe,1,,"['stick', 'gold_ingot']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,golden_shovel,1,,"['stick', 'gold_ingot']","[2, 1]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,golden_sword,1,,"['stick', 'gold_ingot']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,gold_block,1,,['gold_ingot'],[9],[1.0]
+minecraft:blasting,gold_ingot,1,gold_ingot,['deepslate_gold_ore'],[1],[1.0]
+minecraft:blasting,gold_ingot,1,gold_ingot,['gold_ore'],[1],[1.0]
+minecraft:blasting,gold_ingot,1,gold_ingot,['nether_gold_ore'],[1],[1.0]
+minecraft:blasting,gold_ingot,1,gold_ingot,['raw_gold'],[1],[1.0]
+minecraft:crafting_shapeless,gold_ingot,9,gold_ingot,['gold_block'],[1],[1.0]
+minecraft:crafting_shaped,gold_ingot,1,gold_ingot,['gold_nugget'],[9],[1.0]
+minecraft:smelting,gold_ingot,1,gold_ingot,['deepslate_gold_ore'],[1],[1.0]
+minecraft:smelting,gold_ingot,1,gold_ingot,['gold_ore'],[1],[1.0]
+minecraft:smelting,gold_ingot,1,gold_ingot,['nether_gold_ore'],[1],[1.0]
+minecraft:smelting,gold_ingot,1,gold_ingot,['raw_gold'],[1],[1.0]
+minecraft:crafting_shapeless,gold_nugget,9,,['gold_ingot'],[1],[1.0]
+minecraft:blasting,gold_nugget,1,,"[['golden_pickaxe', 'golden_shovel', 'golden_axe', 'golden_hoe', 'golden_sword', 'golden_helmet', 'golden_chestplate', 'golden_leggings', 'golden_boots', 'golden_horse_armor']]",[1],[1.0]
+minecraft:smelting,gold_nugget,1,,"[['golden_pickaxe', 'golden_shovel', 'golden_axe', 'golden_hoe', 'golden_sword', 'golden_helmet', 'golden_chestplate', 'golden_leggings', 'golden_boots', 'golden_horse_armor']]",[1],[1.0]
+minecraft:crafting_shapeless,granite,1,,"['diorite', 'quartz']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,granite_slab,6,,['granite'],[3],[1.0]
+minecraft:stonecutting,granite_slab,1,,['granite'],[1],[1.0]
+minecraft:crafting_shaped,granite_stairs,4,,['granite'],[6],[1.0]
+minecraft:stonecutting,granite_stairs,1,,['granite'],[1],[1.0]
+minecraft:crafting_shaped,granite_wall,6,,['granite'],[6],[1.0]
+minecraft:stonecutting,granite_wall,1,,['granite'],[1],[1.0]
+minecraft:crafting_shaped,gray_banner,1,banner,"['gray_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,gray_bed,1,bed,"['gray_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,gray_bed,1,dyed_bed,"['white_bed', 'gray_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,gray_candle,1,dyed_candle,"['candle', 'gray_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,gray_carpet,3,carpet,['gray_wool'],[2],[1.0]
+minecraft:crafting_shaped,gray_carpet,8,carpet,"['white_carpet', 'gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,gray_concrete_powder,8,concrete_powder,"['gray_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,gray_dye,2,,"['black_dye', 'white_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,gray_glazed_terracotta,1,,['gray_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,gray_stained_glass,8,stained_glass,"['glass', 'gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,gray_stained_glass_pane,16,stained_glass_pane,['gray_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,gray_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,gray_terracotta,8,stained_terracotta,"['terracotta', 'gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,gray_wool,1,wool,"['gray_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,green_banner,1,banner,"['green_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,green_bed,1,bed,"['green_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,green_bed,1,dyed_bed,"['white_bed', 'green_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,green_candle,1,dyed_candle,"['candle', 'green_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,green_carpet,3,carpet,['green_wool'],[2],[1.0]
+minecraft:crafting_shaped,green_carpet,8,carpet,"['white_carpet', 'green_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,green_concrete_powder,8,concrete_powder,"['green_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:smelting,green_dye,1,,['cactus'],[1],[1.0]
+minecraft:smelting,green_glazed_terracotta,1,,['green_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,green_stained_glass,8,stained_glass,"['glass', 'green_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,green_stained_glass_pane,16,stained_glass_pane,['green_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,green_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'green_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,green_terracotta,8,stained_terracotta,"['terracotta', 'green_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,green_wool,1,wool,"['green_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,grindstone,1,,"['planks', 'stone_slab', 'stick']","[2, 1, 2]","[0.4, 0.2, 0.4]"
+minecraft:crafting_shaped,hay_block,1,,['wheat'],[9],[1.0]
+minecraft:crafting_shaped,heavy_weighted_pressure_plate,1,,['iron_ingot'],[2],[1.0]
+minecraft:crafting_shaped,honeycomb_block,1,,['honeycomb'],[4],[1.0]
+minecraft:crafting_shaped,honey_block,1,,['honey_bottle'],[4],[1.0]
+minecraft:crafting_shapeless,honey_bottle,4,,"['honey_block', 'glass_bottle']","[1, 4]","[0.2, 0.8]"
+minecraft:crafting_shaped,hopper,1,,"['chest', 'iron_ingot']","[1, 5]","[0.16666666666666666, 0.8333333333333334]"
+minecraft:crafting_shapeless,hopper_minecart,1,,"['hopper', 'minecart']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,iron_axe,1,,"['stick', 'iron_ingot']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,iron_bars,16,,['iron_ingot'],[6],[1.0]
+minecraft:crafting_shaped,iron_block,1,,['iron_ingot'],[9],[1.0]
+minecraft:crafting_shaped,iron_boots,1,,['iron_ingot'],[4],[1.0]
+minecraft:crafting_shaped,iron_chestplate,1,,['iron_ingot'],[8],[1.0]
+minecraft:crafting_shaped,iron_door,3,,['iron_ingot'],[6],[1.0]
+minecraft:crafting_shaped,iron_helmet,1,,['iron_ingot'],[5],[1.0]
+minecraft:crafting_shaped,iron_hoe,1,,"['stick', 'iron_ingot']","[2, 2]","[0.5, 0.5]"
+minecraft:blasting,iron_ingot,1,iron_ingot,['deepslate_iron_ore'],[1],[1.0]
+minecraft:blasting,iron_ingot,1,iron_ingot,['iron_ore'],[1],[1.0]
+minecraft:blasting,iron_ingot,1,iron_ingot,['raw_iron'],[1],[1.0]
+minecraft:crafting_shapeless,iron_ingot,9,iron_ingot,['iron_block'],[1],[1.0]
+minecraft:crafting_shaped,iron_ingot,1,iron_ingot,['iron_nugget'],[9],[1.0]
+minecraft:smelting,iron_ingot,1,iron_ingot,['deepslate_iron_ore'],[1],[1.0]
+minecraft:smelting,iron_ingot,1,iron_ingot,['iron_ore'],[1],[1.0]
+minecraft:smelting,iron_ingot,1,iron_ingot,['raw_iron'],[1],[1.0]
+minecraft:crafting_shaped,iron_leggings,1,,['iron_ingot'],[7],[1.0]
+minecraft:crafting_shapeless,iron_nugget,9,,['iron_ingot'],[1],[1.0]
+minecraft:blasting,iron_nugget,1,,"[['iron_pickaxe', 'iron_shovel', 'iron_axe', 'iron_hoe', 'iron_sword', 'iron_helmet', 'iron_chestplate', 'iron_leggings', 'iron_boots', 'iron_horse_armor', 'chainmail_helmet', 'chainmail_chestplate', 'chainmail_leggings', 'chainmail_boots']]",[1],[1.0]
+minecraft:smelting,iron_nugget,1,,"[['iron_pickaxe', 'iron_shovel', 'iron_axe', 'iron_hoe', 'iron_sword', 'iron_helmet', 'iron_chestplate', 'iron_leggings', 'iron_boots', 'iron_horse_armor', 'chainmail_helmet', 'chainmail_chestplate', 'chainmail_leggings', 'chainmail_boots']]",[1],[1.0]
+minecraft:crafting_shaped,iron_pickaxe,1,,"['stick', 'iron_ingot']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,iron_shovel,1,,"['stick', 'iron_ingot']","[2, 1]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,iron_sword,1,,"['stick', 'iron_ingot']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,iron_trapdoor,1,,['iron_ingot'],[4],[1.0]
+minecraft:crafting_shaped,item_frame,1,,"['stick', 'leather']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,jack_o_lantern,1,,"['carved_pumpkin', 'torch']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,jukebox,1,,"['planks', 'diamond']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,jungle_boat,1,boat,['jungle_planks'],[5],[1.0]
+minecraft:crafting_shapeless,jungle_button,1,wooden_button,['jungle_planks'],[1],[1.0]
+minecraft:crafting_shapeless,jungle_chest_boat,1,chest_boat,"['chest', 'jungle_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,jungle_door,3,wooden_door,['jungle_planks'],[6],[1.0]
+minecraft:crafting_shaped,jungle_fence,3,wooden_fence,"['stick', 'jungle_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,jungle_fence_gate,1,wooden_fence_gate,"['stick', 'jungle_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,jungle_planks,4,planks,['jungle_logs'],[1],[1.0]
+minecraft:crafting_shaped,jungle_pressure_plate,1,wooden_pressure_plate,['jungle_planks'],[2],[1.0]
+minecraft:crafting_shaped,jungle_sign,3,wooden_sign,"['jungle_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,jungle_slab,6,wooden_slab,['jungle_planks'],[3],[1.0]
+minecraft:crafting_shaped,jungle_stairs,4,wooden_stairs,['jungle_planks'],[6],[1.0]
+minecraft:crafting_shaped,jungle_trapdoor,2,wooden_trapdoor,['jungle_planks'],[6],[1.0]
+minecraft:crafting_shaped,jungle_wood,3,bark,['jungle_log'],[4],[1.0]
+minecraft:crafting_shaped,ladder,3,,['stick'],[7],[1.0]
+minecraft:crafting_shaped,lantern,1,,"['torch', 'iron_nugget']","[1, 8]","[0.1111111111111111, 0.8888888888888888]"
+minecraft:crafting_shaped,lapis_block,1,,['lapis_lazuli'],[9],[1.0]
+minecraft:crafting_shapeless,lapis_lazuli,9,,['lapis_block'],[1],[1.0]
+minecraft:blasting,lapis_lazuli,1,lapis_lazuli,['deepslate_lapis_ore'],[1],[1.0]
+minecraft:blasting,lapis_lazuli,1,lapis_lazuli,['lapis_ore'],[1],[1.0]
+minecraft:smelting,lapis_lazuli,1,lapis_lazuli,['deepslate_lapis_ore'],[1],[1.0]
+minecraft:smelting,lapis_lazuli,1,lapis_lazuli,['lapis_ore'],[1],[1.0]
+minecraft:crafting_shaped,lead,2,,"['slime_ball', 'string']","[1, 4]","[0.2, 0.8]"
+minecraft:crafting_shaped,leather,1,,['rabbit_hide'],[4],[1.0]
+minecraft:crafting_shaped,leather_boots,1,,['leather'],[4],[1.0]
+minecraft:crafting_shaped,leather_chestplate,1,,['leather'],[8],[1.0]
+minecraft:crafting_shaped,leather_helmet,1,,['leather'],[5],[1.0]
+minecraft:crafting_shaped,leather_horse_armor,1,,['leather'],[7],[1.0]
+minecraft:crafting_shaped,leather_leggings,1,,['leather'],[7],[1.0]
+minecraft:crafting_shaped,lectern,1,,"['bookshelf', 'wooden_slabs']","[1, 4]","[0.2, 0.8]"
+minecraft:crafting_shaped,lever,1,,"['cobblestone', 'stick']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,lightning_rod,1,,['copper_ingot'],[3],[1.0]
+minecraft:crafting_shaped,light_blue_banner,1,banner,"['light_blue_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,light_blue_bed,1,bed,"['light_blue_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,light_blue_bed,1,dyed_bed,"['white_bed', 'light_blue_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,light_blue_candle,1,dyed_candle,"['candle', 'light_blue_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,light_blue_carpet,3,carpet,['light_blue_wool'],[2],[1.0]
+minecraft:crafting_shaped,light_blue_carpet,8,carpet,"['white_carpet', 'light_blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,light_blue_concrete_powder,8,concrete_powder,"['light_blue_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,light_blue_dye,1,light_blue_dye,['blue_orchid'],[1],[1.0]
+minecraft:crafting_shapeless,light_blue_dye,2,light_blue_dye,"['blue_dye', 'white_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,light_blue_glazed_terracotta,1,,['light_blue_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,light_blue_stained_glass,8,stained_glass,"['glass', 'light_blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,light_blue_stained_glass_pane,16,stained_glass_pane,['light_blue_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,light_blue_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'light_blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,light_blue_terracotta,8,stained_terracotta,"['terracotta', 'light_blue_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,light_blue_wool,1,wool,"['light_blue_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,light_gray_banner,1,banner,"['light_gray_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,light_gray_bed,1,bed,"['light_gray_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,light_gray_bed,1,dyed_bed,"['white_bed', 'light_gray_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,light_gray_candle,1,dyed_candle,"['candle', 'light_gray_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,light_gray_carpet,3,carpet,['light_gray_wool'],[2],[1.0]
+minecraft:crafting_shaped,light_gray_carpet,8,carpet,"['white_carpet', 'light_gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,light_gray_concrete_powder,8,concrete_powder,"['light_gray_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,light_gray_dye,1,light_gray_dye,['azure_bluet'],[1],[1.0]
+minecraft:crafting_shapeless,light_gray_dye,3,light_gray_dye,"['black_dye', 'white_dye']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shapeless,light_gray_dye,2,light_gray_dye,"['gray_dye', 'white_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,light_gray_dye,1,light_gray_dye,['oxeye_daisy'],[1],[1.0]
+minecraft:crafting_shapeless,light_gray_dye,1,light_gray_dye,['white_tulip'],[1],[1.0]
+minecraft:smelting,light_gray_glazed_terracotta,1,,['light_gray_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,light_gray_stained_glass,8,stained_glass,"['glass', 'light_gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,light_gray_stained_glass_pane,16,stained_glass_pane,['light_gray_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,light_gray_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'light_gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,light_gray_terracotta,8,stained_terracotta,"['terracotta', 'light_gray_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,light_gray_wool,1,wool,"['light_gray_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,light_weighted_pressure_plate,1,,['gold_ingot'],[2],[1.0]
+minecraft:crafting_shaped,lime_banner,1,banner,"['lime_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,lime_bed,1,bed,"['lime_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,lime_bed,1,dyed_bed,"['white_bed', 'lime_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,lime_candle,1,dyed_candle,"['candle', 'lime_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,lime_carpet,3,carpet,['lime_wool'],[2],[1.0]
+minecraft:crafting_shaped,lime_carpet,8,carpet,"['white_carpet', 'lime_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,lime_concrete_powder,8,concrete_powder,"['lime_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,lime_dye,2,,"['green_dye', 'white_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,lime_dye,1,,['sea_pickle'],[1],[1.0]
+minecraft:smelting,lime_glazed_terracotta,1,,['lime_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,lime_stained_glass,8,stained_glass,"['glass', 'lime_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,lime_stained_glass_pane,16,stained_glass_pane,['lime_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,lime_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'lime_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,lime_terracotta,8,stained_terracotta,"['terracotta', 'lime_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,lime_wool,1,wool,"['lime_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,lodestone,1,,"['netherite_ingot', 'chiseled_stone_bricks']","[1, 8]","[0.1111111111111111, 0.8888888888888888]"
+minecraft:crafting_shaped,loom,1,,"['planks', 'string']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,magenta_banner,1,banner,"['magenta_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,magenta_bed,1,bed,"['magenta_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,magenta_bed,1,dyed_bed,"['white_bed', 'magenta_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,magenta_candle,1,dyed_candle,"['candle', 'magenta_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,magenta_carpet,3,carpet,['magenta_wool'],[2],[1.0]
+minecraft:crafting_shaped,magenta_carpet,8,carpet,"['white_carpet', 'magenta_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,magenta_concrete_powder,8,concrete_powder,"['magenta_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,magenta_dye,1,magenta_dye,['allium'],[1],[1.0]
+minecraft:crafting_shapeless,magenta_dye,3,magenta_dye,"['blue_dye', 'red_dye', 'pink_dye']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shapeless,magenta_dye,4,magenta_dye,"['blue_dye', 'red_dye', 'white_dye']","[1, 2, 1]","[0.25, 0.5, 0.25]"
+minecraft:crafting_shapeless,magenta_dye,2,magenta_dye,['lilac'],[1],[1.0]
+minecraft:crafting_shapeless,magenta_dye,2,magenta_dye,"['purple_dye', 'pink_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,magenta_glazed_terracotta,1,,['magenta_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,magenta_stained_glass,8,stained_glass,"['glass', 'magenta_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,magenta_stained_glass_pane,16,stained_glass_pane,['magenta_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,magenta_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'magenta_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,magenta_terracotta,8,stained_terracotta,"['terracotta', 'magenta_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,magenta_wool,1,wool,"['magenta_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,magma_block,1,,['magma_cream'],[4],[1.0]
+minecraft:crafting_shapeless,magma_cream,1,,"['blaze_powder', 'slime_ball']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,mangrove_boat,1,boat,['mangrove_planks'],[5],[1.0]
+minecraft:crafting_shapeless,mangrove_button,1,wooden_button,['mangrove_planks'],[1],[1.0]
+minecraft:crafting_shapeless,mangrove_chest_boat,1,chest_boat,"['chest', 'mangrove_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,mangrove_door,3,wooden_door,['mangrove_planks'],[6],[1.0]
+minecraft:crafting_shaped,mangrove_fence,3,wooden_fence,"['stick', 'mangrove_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,mangrove_fence_gate,1,wooden_fence_gate,"['stick', 'mangrove_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,mangrove_planks,4,planks,['mangrove_logs'],[1],[1.0]
+minecraft:crafting_shaped,mangrove_pressure_plate,1,wooden_pressure_plate,['mangrove_planks'],[2],[1.0]
+minecraft:crafting_shaped,mangrove_sign,3,wooden_sign,"['mangrove_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,mangrove_slab,6,wooden_slab,['mangrove_planks'],[3],[1.0]
+minecraft:crafting_shaped,mangrove_stairs,4,wooden_stairs,['mangrove_planks'],[6],[1.0]
+minecraft:crafting_shaped,mangrove_trapdoor,2,wooden_trapdoor,['mangrove_planks'],[6],[1.0]
+minecraft:crafting_shaped,mangrove_wood,3,bark,['mangrove_log'],[4],[1.0]
+minecraft:crafting_shaped,map,1,,"['paper', 'compass']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,melon,1,,['melon_slice'],[9],[1.0]
+minecraft:crafting_shapeless,melon_seeds,1,,['melon_slice'],[1],[1.0]
+minecraft:crafting_shaped,minecart,1,,['iron_ingot'],[5],[1.0]
+minecraft:crafting_shapeless,mojang_banner_pattern,1,,"['paper', 'enchanted_golden_apple']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,mossy_cobblestone,1,mossy_cobblestone,"['cobblestone', 'moss_block']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,mossy_cobblestone,1,mossy_cobblestone,"['cobblestone', 'vine']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,mossy_cobblestone_slab,6,,['mossy_cobblestone'],[3],[1.0]
+minecraft:stonecutting,mossy_cobblestone_slab,1,,['mossy_cobblestone'],[1],[1.0]
+minecraft:crafting_shaped,mossy_cobblestone_stairs,4,,['mossy_cobblestone'],[6],[1.0]
+minecraft:stonecutting,mossy_cobblestone_stairs,1,,['mossy_cobblestone'],[1],[1.0]
+minecraft:crafting_shaped,mossy_cobblestone_wall,6,,['mossy_cobblestone'],[6],[1.0]
+minecraft:stonecutting,mossy_cobblestone_wall,1,,['mossy_cobblestone'],[1],[1.0]
+minecraft:crafting_shapeless,mossy_stone_bricks,1,mossy_stone_bricks,"['stone_bricks', 'moss_block']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,mossy_stone_bricks,1,mossy_stone_bricks,"['stone_bricks', 'vine']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,mossy_stone_brick_slab,6,,['mossy_stone_bricks'],[3],[1.0]
+minecraft:stonecutting,mossy_stone_brick_slab,1,,['mossy_stone_bricks'],[1],[1.0]
+minecraft:crafting_shaped,mossy_stone_brick_stairs,4,,['mossy_stone_bricks'],[6],[1.0]
+minecraft:stonecutting,mossy_stone_brick_stairs,1,,['mossy_stone_bricks'],[1],[1.0]
+minecraft:crafting_shaped,mossy_stone_brick_wall,6,,['mossy_stone_bricks'],[6],[1.0]
+minecraft:stonecutting,mossy_stone_brick_wall,1,,['mossy_stone_bricks'],[1],[1.0]
+minecraft:crafting_shaped,moss_carpet,3,carpet,['moss_block'],[2],[1.0]
+minecraft:crafting_shapeless,muddy_mangrove_roots,1,,"['mud', 'mangrove_roots']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,mud_bricks,4,,['packed_mud'],[4],[1.0]
+minecraft:crafting_shaped,mud_brick_slab,6,,['mud_bricks'],[3],[1.0]
+minecraft:stonecutting,mud_brick_slab,1,,['mud_bricks'],[1],[1.0]
+minecraft:crafting_shaped,mud_brick_stairs,4,,['mud_bricks'],[6],[1.0]
+minecraft:stonecutting,mud_brick_stairs,1,,['mud_bricks'],[1],[1.0]
+minecraft:crafting_shaped,mud_brick_wall,6,,['mud_bricks'],[6],[1.0]
+minecraft:stonecutting,mud_brick_wall,1,,['mud_bricks'],[1],[1.0]
+minecraft:crafting_shapeless,mushroom_stew,1,,"['brown_mushroom', 'red_mushroom', 'bowl']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shaped,music_disc_5,1,,['disc_fragment_5'],[9],[1.0]
+minecraft:smithing,netherite_axe,1,,"['diamond_axe', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,netherite_block,1,,['netherite_ingot'],[9],[1.0]
+minecraft:smithing,netherite_boots,1,,"['diamond_boots', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smithing,netherite_chestplate,1,,"['diamond_chestplate', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smithing,netherite_helmet,1,,"['diamond_helmet', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smithing,netherite_hoe,1,,"['diamond_hoe', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,netherite_ingot,1,netherite_ingot,"['netherite_scrap', 'gold_ingot']","[4, 4]","[0.5, 0.5]"
+minecraft:crafting_shapeless,netherite_ingot,9,netherite_ingot,['netherite_block'],[1],[1.0]
+minecraft:smithing,netherite_leggings,1,,"['diamond_leggings', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smithing,netherite_pickaxe,1,,"['diamond_pickaxe', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,netherite_scrap,1,,['ancient_debris'],[1],[1.0]
+minecraft:blasting,netherite_scrap,1,,['ancient_debris'],[1],[1.0]
+minecraft:smithing,netherite_shovel,1,,"['diamond_shovel', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smithing,netherite_sword,1,,"['diamond_sword', 'netherite_ingot']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,nether_brick,1,,['netherrack'],[1],[1.0]
+minecraft:crafting_shaped,nether_bricks,1,,['nether_brick'],[4],[1.0]
+minecraft:crafting_shaped,nether_brick_fence,6,,"['nether_brick', 'nether_bricks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,nether_brick_slab,6,,['nether_bricks'],[3],[1.0]
+minecraft:stonecutting,nether_brick_slab,1,,['nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,nether_brick_stairs,4,,['nether_bricks'],[6],[1.0]
+minecraft:stonecutting,nether_brick_stairs,1,,['nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,nether_brick_wall,6,,['nether_bricks'],[6],[1.0]
+minecraft:stonecutting,nether_brick_wall,1,,['nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,nether_wart_block,1,,['nether_wart'],[9],[1.0]
+minecraft:crafting_shaped,note_block,1,,"['planks', 'redstone']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,oak_boat,1,boat,['oak_planks'],[5],[1.0]
+minecraft:crafting_shapeless,oak_button,1,wooden_button,['oak_planks'],[1],[1.0]
+minecraft:crafting_shapeless,oak_chest_boat,1,chest_boat,"['chest', 'oak_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,oak_door,3,wooden_door,['oak_planks'],[6],[1.0]
+minecraft:crafting_shaped,oak_fence,3,wooden_fence,"['stick', 'oak_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,oak_fence_gate,1,wooden_fence_gate,"['stick', 'oak_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,oak_planks,4,planks,['oak_logs'],[1],[1.0]
+minecraft:crafting_shaped,oak_pressure_plate,1,wooden_pressure_plate,['oak_planks'],[2],[1.0]
+minecraft:crafting_shaped,oak_sign,3,wooden_sign,"['oak_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,oak_slab,6,wooden_slab,['oak_planks'],[3],[1.0]
+minecraft:crafting_shaped,oak_stairs,4,wooden_stairs,['oak_planks'],[6],[1.0]
+minecraft:crafting_shaped,oak_trapdoor,2,wooden_trapdoor,['oak_planks'],[6],[1.0]
+minecraft:crafting_shaped,oak_wood,3,bark,['oak_log'],[4],[1.0]
+minecraft:crafting_shaped,observer,1,,"['cobblestone', 'quartz', 'redstone']","[6, 1, 2]","[0.6666666666666666, 0.1111111111111111, 0.2222222222222222]"
+minecraft:crafting_shaped,orange_banner,1,banner,"['orange_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,orange_bed,1,bed,"['orange_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,orange_bed,1,dyed_bed,"['white_bed', 'orange_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,orange_candle,1,dyed_candle,"['candle', 'orange_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,orange_carpet,3,carpet,['orange_wool'],[2],[1.0]
+minecraft:crafting_shaped,orange_carpet,8,carpet,"['white_carpet', 'orange_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,orange_concrete_powder,8,concrete_powder,"['orange_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,orange_dye,1,orange_dye,['orange_tulip'],[1],[1.0]
+minecraft:crafting_shapeless,orange_dye,2,orange_dye,"['red_dye', 'yellow_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,orange_glazed_terracotta,1,,['orange_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,orange_stained_glass,8,stained_glass,"['glass', 'orange_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,orange_stained_glass_pane,16,stained_glass_pane,['orange_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,orange_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'orange_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,orange_terracotta,8,stained_terracotta,"['terracotta', 'orange_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,orange_wool,1,wool,"['orange_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,oxidized_cut_copper,4,,['oxidized_copper'],[4],[1.0]
+minecraft:stonecutting,oxidized_cut_copper,1,,['oxidized_copper'],[1],[1.0]
+minecraft:crafting_shaped,oxidized_cut_copper_slab,6,,['oxidized_cut_copper'],[3],[1.0]
+minecraft:stonecutting,oxidized_cut_copper_slab,1,,['oxidized_copper'],[1],[1.0]
+minecraft:stonecutting,oxidized_cut_copper_slab,1,,['oxidized_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,oxidized_cut_copper_stairs,4,,['oxidized_cut_copper'],[6],[1.0]
+minecraft:stonecutting,oxidized_cut_copper_stairs,1,,['oxidized_copper'],[1],[1.0]
+minecraft:stonecutting,oxidized_cut_copper_stairs,1,,['oxidized_cut_copper'],[1],[1.0]
+minecraft:crafting_shapeless,packed_ice,1,,['ice'],[9],[1.0]
+minecraft:crafting_shapeless,packed_mud,1,,"['mud', 'wheat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,painting,1,,"['stick', 'wool']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,paper,3,,['sugar_cane'],[3],[1.0]
+minecraft:crafting_shaped,pink_banner,1,banner,"['pink_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,pink_bed,1,bed,"['pink_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,pink_bed,1,dyed_bed,"['white_bed', 'pink_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,pink_candle,1,dyed_candle,"['candle', 'pink_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,pink_carpet,3,carpet,['pink_wool'],[2],[1.0]
+minecraft:crafting_shaped,pink_carpet,8,carpet,"['white_carpet', 'pink_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,pink_concrete_powder,8,concrete_powder,"['pink_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,pink_dye,2,pink_dye,['peony'],[1],[1.0]
+minecraft:crafting_shapeless,pink_dye,1,pink_dye,['pink_tulip'],[1],[1.0]
+minecraft:crafting_shapeless,pink_dye,2,pink_dye,"['red_dye', 'white_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,pink_glazed_terracotta,1,,['pink_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,pink_stained_glass,8,stained_glass,"['glass', 'pink_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,pink_stained_glass_pane,16,stained_glass_pane,['pink_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,pink_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'pink_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,pink_terracotta,8,stained_terracotta,"['terracotta', 'pink_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,pink_wool,1,wool,"['pink_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,piston,1,,"['cobblestone', 'redstone', 'planks', 'iron_ingot']","[4, 1, 3, 1]","[0.4444444444444444, 0.1111111111111111, 0.3333333333333333, 0.1111111111111111]"
+minecraft:crafting_shaped,polished_andesite,4,,['andesite'],[4],[1.0]
+minecraft:stonecutting,polished_andesite,1,,['andesite'],[1],[1.0]
+minecraft:crafting_shaped,polished_andesite_slab,6,,['polished_andesite'],[3],[1.0]
+minecraft:stonecutting,polished_andesite_slab,1,,['andesite'],[1],[1.0]
+minecraft:stonecutting,polished_andesite_slab,1,,['polished_andesite'],[1],[1.0]
+minecraft:crafting_shaped,polished_andesite_stairs,4,,['polished_andesite'],[6],[1.0]
+minecraft:stonecutting,polished_andesite_stairs,1,,['andesite'],[1],[1.0]
+minecraft:stonecutting,polished_andesite_stairs,1,,['polished_andesite'],[1],[1.0]
+minecraft:crafting_shaped,polished_basalt,4,,['basalt'],[4],[1.0]
+minecraft:stonecutting,polished_basalt,1,,['basalt'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone,4,,['blackstone'],[4],[1.0]
+minecraft:crafting_shaped,polished_blackstone_bricks,4,,['polished_blackstone'],[4],[1.0]
+minecraft:stonecutting,polished_blackstone_bricks,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_bricks,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone_brick_slab,6,,['polished_blackstone_bricks'],[3],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_slab,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_slab,1,,['polished_blackstone_bricks'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_slab,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone_brick_stairs,4,,['polished_blackstone_bricks'],[6],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_stairs,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_stairs,1,,['polished_blackstone_bricks'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_stairs,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone_brick_wall,6,,['polished_blackstone_bricks'],[6],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_wall,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_wall,1,,['polished_blackstone_bricks'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_brick_wall,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shapeless,polished_blackstone_button,1,,['polished_blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone,1,,['blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone_pressure_plate,1,,['polished_blackstone'],[2],[1.0]
+minecraft:crafting_shaped,polished_blackstone_slab,6,,['polished_blackstone'],[3],[1.0]
+minecraft:stonecutting,polished_blackstone_slab,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_slab,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone_stairs,4,,['polished_blackstone'],[6],[1.0]
+minecraft:stonecutting,polished_blackstone_stairs,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_stairs,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_blackstone_wall,6,,['polished_blackstone'],[6],[1.0]
+minecraft:stonecutting,polished_blackstone_wall,1,,['blackstone'],[1],[1.0]
+minecraft:stonecutting,polished_blackstone_wall,1,,['polished_blackstone'],[1],[1.0]
+minecraft:crafting_shaped,polished_deepslate,4,,['cobbled_deepslate'],[4],[1.0]
+minecraft:stonecutting,polished_deepslate,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,polished_deepslate_slab,6,,['polished_deepslate'],[3],[1.0]
+minecraft:stonecutting,polished_deepslate_slab,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,polished_deepslate_slab,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,polished_deepslate_stairs,4,,['polished_deepslate'],[6],[1.0]
+minecraft:stonecutting,polished_deepslate_stairs,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,polished_deepslate_stairs,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,polished_deepslate_wall,6,,['polished_deepslate'],[6],[1.0]
+minecraft:stonecutting,polished_deepslate_wall,1,,['cobbled_deepslate'],[1],[1.0]
+minecraft:stonecutting,polished_deepslate_wall,1,,['polished_deepslate'],[1],[1.0]
+minecraft:crafting_shaped,polished_diorite,4,,['diorite'],[4],[1.0]
+minecraft:stonecutting,polished_diorite,1,,['diorite'],[1],[1.0]
+minecraft:crafting_shaped,polished_diorite_slab,6,,['polished_diorite'],[3],[1.0]
+minecraft:stonecutting,polished_diorite_slab,1,,['diorite'],[1],[1.0]
+minecraft:stonecutting,polished_diorite_slab,1,,['polished_diorite'],[1],[1.0]
+minecraft:crafting_shaped,polished_diorite_stairs,4,,['polished_diorite'],[6],[1.0]
+minecraft:stonecutting,polished_diorite_stairs,1,,['diorite'],[1],[1.0]
+minecraft:stonecutting,polished_diorite_stairs,1,,['polished_diorite'],[1],[1.0]
+minecraft:crafting_shaped,polished_granite,4,,['granite'],[4],[1.0]
+minecraft:stonecutting,polished_granite,1,,['granite'],[1],[1.0]
+minecraft:crafting_shaped,polished_granite_slab,6,,['polished_granite'],[3],[1.0]
+minecraft:stonecutting,polished_granite_slab,1,,['granite'],[1],[1.0]
+minecraft:stonecutting,polished_granite_slab,1,,['polished_granite'],[1],[1.0]
+minecraft:crafting_shaped,polished_granite_stairs,4,,['polished_granite'],[6],[1.0]
+minecraft:stonecutting,polished_granite_stairs,1,,['granite'],[1],[1.0]
+minecraft:stonecutting,polished_granite_stairs,1,,['polished_granite'],[1],[1.0]
+minecraft:smelting,popped_chorus_fruit,1,,['chorus_fruit'],[1],[1.0]
+minecraft:crafting_shaped,powered_rail,6,,"['stick', 'redstone', 'gold_ingot']","[1, 1, 6]","[0.125, 0.125, 0.75]"
+minecraft:crafting_shaped,prismarine,1,,['prismarine_shard'],[4],[1.0]
+minecraft:crafting_shaped,prismarine_bricks,1,,['prismarine_shard'],[9],[1.0]
+minecraft:crafting_shaped,prismarine_brick_slab,6,,['prismarine_bricks'],[3],[1.0]
+minecraft:stonecutting,prismarine_brick_slab,1,,['prismarine_bricks'],[1],[1.0]
+minecraft:crafting_shaped,prismarine_brick_stairs,4,,['prismarine_bricks'],[6],[1.0]
+minecraft:stonecutting,prismarine_brick_stairs,1,,['prismarine_bricks'],[1],[1.0]
+minecraft:crafting_shaped,prismarine_slab,6,,['prismarine'],[3],[1.0]
+minecraft:stonecutting,prismarine_slab,1,,['prismarine'],[1],[1.0]
+minecraft:crafting_shaped,prismarine_stairs,4,,['prismarine'],[6],[1.0]
+minecraft:stonecutting,prismarine_stairs,1,,['prismarine'],[1],[1.0]
+minecraft:crafting_shaped,prismarine_wall,6,,['prismarine'],[6],[1.0]
+minecraft:stonecutting,prismarine_wall,1,,['prismarine'],[1],[1.0]
+minecraft:crafting_shapeless,pumpkin_pie,1,,"['pumpkin', 'sugar', 'egg']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shapeless,pumpkin_seeds,4,,['pumpkin'],[1],[1.0]
+minecraft:crafting_shaped,purple_banner,1,banner,"['purple_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,purple_bed,1,bed,"['purple_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,purple_bed,1,dyed_bed,"['white_bed', 'purple_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,purple_candle,1,dyed_candle,"['candle', 'purple_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,purple_carpet,3,carpet,['purple_wool'],[2],[1.0]
+minecraft:crafting_shaped,purple_carpet,8,carpet,"['white_carpet', 'purple_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,purple_concrete_powder,8,concrete_powder,"['purple_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,purple_dye,2,,"['blue_dye', 'red_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:smelting,purple_glazed_terracotta,1,,['purple_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,purple_stained_glass,8,stained_glass,"['glass', 'purple_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,purple_stained_glass_pane,16,stained_glass_pane,['purple_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,purple_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'purple_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,purple_terracotta,8,stained_terracotta,"['terracotta', 'purple_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,purple_wool,1,wool,"['purple_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,purpur_block,4,,['popped_chorus_fruit'],[4],[1.0]
+minecraft:crafting_shaped,purpur_pillar,1,,['purpur_slab'],[2],[1.0]
+minecraft:stonecutting,purpur_pillar,1,,['purpur_block'],[1],[1.0]
+minecraft:crafting_shaped,purpur_slab,6,,"[['purpur_block', 'purpur_pillar']]",[3],[1.0]
+minecraft:stonecutting,purpur_slab,1,,['purpur_block'],[1],[1.0]
+minecraft:crafting_shaped,purpur_stairs,4,,"[['purpur_block', 'purpur_pillar']]",[6],[1.0]
+minecraft:stonecutting,purpur_stairs,1,,['purpur_block'],[1],[1.0]
+minecraft:smelting,quartz,1,,['nether_quartz_ore'],[1],[1.0]
+minecraft:crafting_shaped,quartz_block,1,,['quartz'],[4],[1.0]
+minecraft:crafting_shaped,quartz_bricks,4,,['quartz_block'],[4],[1.0]
+minecraft:stonecutting,quartz_bricks,1,,['quartz_block'],[1],[1.0]
+minecraft:blasting,quartz,1,,['nether_quartz_ore'],[1],[1.0]
+minecraft:crafting_shaped,quartz_pillar,2,,['quartz_block'],[2],[1.0]
+minecraft:stonecutting,quartz_pillar,1,,['quartz_block'],[1],[1.0]
+minecraft:crafting_shaped,quartz_slab,6,,"[['chiseled_quartz_block', 'quartz_block', 'quartz_pillar']]",[3],[1.0]
+minecraft:stonecutting,quartz_slab,1,,['quartz_block'],[1],[1.0]
+minecraft:crafting_shaped,quartz_stairs,4,,"[['chiseled_quartz_block', 'quartz_block', 'quartz_pillar']]",[6],[1.0]
+minecraft:stonecutting,quartz_stairs,1,,['quartz_block'],[1],[1.0]
+minecraft:crafting_shapeless,rabbit_stew,1,rabbit_stew,"['baked_potato', 'cooked_rabbit', 'bowl', 'carrot', 'brown_mushroom']","[1, 1, 1, 1, 1]","[0.2, 0.2, 0.2, 0.2, 0.2]"
+minecraft:crafting_shapeless,rabbit_stew,1,rabbit_stew,"['baked_potato', 'cooked_rabbit', 'bowl', 'carrot', 'red_mushroom']","[1, 1, 1, 1, 1]","[0.2, 0.2, 0.2, 0.2, 0.2]"
+minecraft:crafting_shaped,rail,16,,"['stick', 'iron_ingot']","[1, 6]","[0.14285714285714285, 0.8571428571428571]"
+minecraft:crafting_shapeless,raw_copper,9,,['raw_copper_block'],[1],[1.0]
+minecraft:crafting_shaped,raw_copper_block,1,,['raw_copper'],[9],[1.0]
+minecraft:crafting_shapeless,raw_gold,9,,['raw_gold_block'],[1],[1.0]
+minecraft:crafting_shaped,raw_gold_block,1,,['raw_gold'],[9],[1.0]
+minecraft:crafting_shapeless,raw_iron,9,,['raw_iron_block'],[1],[1.0]
+minecraft:crafting_shaped,raw_iron_block,1,,['raw_iron'],[9],[1.0]
+minecraft:crafting_shaped,recovery_compass,1,,"['compass', 'echo_shard']","[1, 8]","[0.1111111111111111, 0.8888888888888888]"
+minecraft:crafting_shapeless,redstone,9,,['redstone_block'],[1],[1.0]
+minecraft:crafting_shaped,redstone_block,1,,['redstone'],[9],[1.0]
+minecraft:blasting,redstone,1,redstone,['deepslate_redstone_ore'],[1],[1.0]
+minecraft:blasting,redstone,1,redstone,['redstone_ore'],[1],[1.0]
+minecraft:smelting,redstone,1,redstone,['deepslate_redstone_ore'],[1],[1.0]
+minecraft:smelting,redstone,1,redstone,['redstone_ore'],[1],[1.0]
+minecraft:crafting_shaped,redstone_lamp,1,,"['glowstone', 'redstone']","[1, 4]","[0.2, 0.8]"
+minecraft:crafting_shaped,redstone_torch,1,,"['stick', 'redstone']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,red_banner,1,banner,"['red_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,red_bed,1,bed,"['red_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,red_bed,1,dyed_bed,"['white_bed', 'red_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,red_candle,1,dyed_candle,"['candle', 'red_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,red_carpet,3,carpet,['red_wool'],[2],[1.0]
+minecraft:crafting_shaped,red_carpet,8,carpet,"['white_carpet', 'red_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,red_concrete_powder,8,concrete_powder,"['red_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,red_dye,1,red_dye,['beetroot'],[1],[1.0]
+minecraft:crafting_shapeless,red_dye,1,red_dye,['poppy'],[1],[1.0]
+minecraft:crafting_shapeless,red_dye,2,red_dye,['rose_bush'],[1],[1.0]
+minecraft:crafting_shapeless,red_dye,1,red_dye,['red_tulip'],[1],[1.0]
+minecraft:smelting,red_glazed_terracotta,1,,['red_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,red_nether_bricks,1,,"['nether_brick', 'nether_wart']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,red_nether_brick_slab,6,,['red_nether_bricks'],[3],[1.0]
+minecraft:stonecutting,red_nether_brick_slab,1,,['red_nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,red_nether_brick_stairs,4,,['red_nether_bricks'],[6],[1.0]
+minecraft:stonecutting,red_nether_brick_stairs,1,,['red_nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,red_nether_brick_wall,6,,['red_nether_bricks'],[6],[1.0]
+minecraft:stonecutting,red_nether_brick_wall,1,,['red_nether_bricks'],[1],[1.0]
+minecraft:crafting_shaped,red_sandstone,1,,['red_sand'],[4],[1.0]
+minecraft:crafting_shaped,red_sandstone_slab,6,,"[['red_sandstone', 'chiseled_red_sandstone']]",[3],[1.0]
+minecraft:stonecutting,red_sandstone_slab,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,red_sandstone_stairs,4,,"[['red_sandstone', 'chiseled_red_sandstone', 'cut_red_sandstone']]",[6],[1.0]
+minecraft:stonecutting,red_sandstone_stairs,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,red_sandstone_wall,6,,['red_sandstone'],[6],[1.0]
+minecraft:stonecutting,red_sandstone_wall,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,red_stained_glass,8,stained_glass,"['glass', 'red_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,red_stained_glass_pane,16,stained_glass_pane,['red_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,red_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'red_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,red_terracotta,8,stained_terracotta,"['terracotta', 'red_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,red_wool,1,wool,"['red_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,repeater,1,,"['redstone_torch', 'stone', 'redstone']","[2, 3, 1]","[0.3333333333333333, 0.5, 0.16666666666666666]"
+minecraft:crafting_shaped,respawn_anchor,1,,"['glowstone', 'crying_obsidian']","[3, 6]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,sandstone,1,,['sand'],[4],[1.0]
+minecraft:crafting_shaped,sandstone_slab,6,,"[['sandstone', 'chiseled_sandstone']]",[3],[1.0]
+minecraft:stonecutting,sandstone_slab,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,sandstone_stairs,4,,"[['sandstone', 'chiseled_sandstone', 'cut_sandstone']]",[6],[1.0]
+minecraft:stonecutting,sandstone_stairs,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,sandstone_wall,6,,['sandstone'],[6],[1.0]
+minecraft:stonecutting,sandstone_wall,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,scaffolding,6,,"['bamboo', 'string']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,sea_lantern,1,,"['prismarine_crystals', 'prismarine_shard']","[5, 4]","[0.5555555555555556, 0.4444444444444444]"
+minecraft:crafting_shaped,shears,1,,['iron_ingot'],[2],[1.0]
+minecraft:crafting_shaped,shield,1,,"['planks', 'iron_ingot']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,shulker_box,1,,"['chest', 'shulker_shell']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shapeless,skull_banner_pattern,1,,"['paper', 'wither_skeleton_skull']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,slime_ball,9,,['slime_block'],[1],[1.0]
+minecraft:crafting_shaped,slime_block,1,,['slime_ball'],[9],[1.0]
+minecraft:crafting_shaped,smithing_table,1,,"['planks', 'iron_ingot']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,smoker,1,,"['logs', 'furnace']","[4, 1]","[0.8, 0.2]"
+minecraft:smelting,smooth_basalt,1,,['basalt'],[1],[1.0]
+minecraft:smelting,smooth_quartz,1,,['quartz_block'],[1],[1.0]
+minecraft:crafting_shaped,smooth_quartz_slab,6,,['smooth_quartz'],[3],[1.0]
+minecraft:stonecutting,smooth_quartz_slab,1,,['smooth_quartz'],[1],[1.0]
+minecraft:crafting_shaped,smooth_quartz_stairs,4,,['smooth_quartz'],[6],[1.0]
+minecraft:stonecutting,smooth_quartz_stairs,1,,['smooth_quartz'],[1],[1.0]
+minecraft:smelting,smooth_red_sandstone,1,,['red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,smooth_red_sandstone_slab,6,,['smooth_red_sandstone'],[3],[1.0]
+minecraft:stonecutting,smooth_red_sandstone_slab,1,,['smooth_red_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,smooth_red_sandstone_stairs,4,,['smooth_red_sandstone'],[6],[1.0]
+minecraft:stonecutting,smooth_red_sandstone_stairs,1,,['smooth_red_sandstone'],[1],[1.0]
+minecraft:smelting,smooth_sandstone,1,,['sandstone'],[1],[1.0]
+minecraft:crafting_shaped,smooth_sandstone_slab,6,,['smooth_sandstone'],[3],[1.0]
+minecraft:stonecutting,smooth_sandstone_slab,1,,['smooth_sandstone'],[1],[1.0]
+minecraft:crafting_shaped,smooth_sandstone_stairs,4,,['smooth_sandstone'],[6],[1.0]
+minecraft:stonecutting,smooth_sandstone_stairs,1,,['smooth_sandstone'],[1],[1.0]
+minecraft:smelting,smooth_stone,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,smooth_stone_slab,6,,['smooth_stone'],[3],[1.0]
+minecraft:stonecutting,smooth_stone_slab,1,,['smooth_stone'],[1],[1.0]
+minecraft:crafting_shaped,snow,6,,['snow_block'],[3],[1.0]
+minecraft:crafting_shaped,snow_block,1,,['snowball'],[4],[1.0]
+minecraft:crafting_shaped,soul_campfire,1,,"['soul_fire_base_blocks', 'logs', 'stick']","[1, 3, 3]","[0.14285714285714285, 0.42857142857142855, 0.42857142857142855]"
+minecraft:crafting_shaped,soul_lantern,1,,"['soul_torch', 'iron_nugget']","[1, 8]","[0.1111111111111111, 0.8888888888888888]"
+minecraft:crafting_shaped,soul_torch,4,,"['stick', 'soul_fire_base_blocks', ['coal', 'charcoal']]","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shaped,spectral_arrow,2,,"['glowstone_dust', 'arrow']","[4, 1]","[0.8, 0.2]"
+minecraft:smelting,sponge,1,,['wet_sponge'],[1],[1.0]
+minecraft:crafting_shaped,spruce_boat,1,boat,['spruce_planks'],[5],[1.0]
+minecraft:crafting_shapeless,spruce_button,1,wooden_button,['spruce_planks'],[1],[1.0]
+minecraft:crafting_shapeless,spruce_chest_boat,1,chest_boat,"['chest', 'spruce_boat']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,spruce_door,3,wooden_door,['spruce_planks'],[6],[1.0]
+minecraft:crafting_shaped,spruce_fence,3,wooden_fence,"['stick', 'spruce_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,spruce_fence_gate,1,wooden_fence_gate,"['stick', 'spruce_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shapeless,spruce_planks,4,planks,['spruce_logs'],[1],[1.0]
+minecraft:crafting_shaped,spruce_pressure_plate,1,wooden_pressure_plate,['spruce_planks'],[2],[1.0]
+minecraft:crafting_shaped,spruce_sign,3,wooden_sign,"['spruce_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,spruce_slab,6,wooden_slab,['spruce_planks'],[3],[1.0]
+minecraft:crafting_shaped,spruce_stairs,4,wooden_stairs,['spruce_planks'],[6],[1.0]
+minecraft:crafting_shaped,spruce_trapdoor,2,wooden_trapdoor,['spruce_planks'],[6],[1.0]
+minecraft:crafting_shaped,spruce_wood,3,bark,['spruce_log'],[4],[1.0]
+minecraft:crafting_shaped,spyglass,1,,"['amethyst_shard', 'copper_ingot']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,stick,4,sticks,['planks'],[2],[1.0]
+minecraft:crafting_shaped,sticky_piston,1,,"['piston', 'slime_ball']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,stick,1,sticks,['bamboo'],[2],[1.0]
+minecraft:smelting,stone,1,,['cobblestone'],[1],[1.0]
+minecraft:crafting_shaped,stonecutter,1,,"['stone', 'iron_ingot']","[3, 1]","[0.75, 0.25]"
+minecraft:crafting_shaped,stone_axe,1,,"['stick', 'stone_tool_materials']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,stone_bricks,4,,['stone'],[4],[1.0]
+minecraft:stonecutting,stone_bricks,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,stone_brick_slab,6,,['stone_bricks'],[3],[1.0]
+minecraft:stonecutting,stone_brick_slab,1,,['stone_bricks'],[1],[1.0]
+minecraft:stonecutting,stone_brick_slab,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,stone_brick_stairs,4,,['stone_bricks'],[6],[1.0]
+minecraft:stonecutting,stone_brick_stairs,1,,['stone_bricks'],[1],[1.0]
+minecraft:stonecutting,stone_brick_stairs,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,stone_brick_wall,6,,['stone_bricks'],[6],[1.0]
+minecraft:stonecutting,stone_brick_wall,1,,['stone'],[1],[1.0]
+minecraft:stonecutting,stone_brick_wall,1,,['stone_bricks'],[1],[1.0]
+minecraft:crafting_shapeless,stone_button,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,stone_hoe,1,,"['stick', 'stone_tool_materials']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,stone_pickaxe,1,,"['stick', 'stone_tool_materials']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,stone_pressure_plate,1,,['stone'],[2],[1.0]
+minecraft:crafting_shaped,stone_shovel,1,,"['stick', 'stone_tool_materials']","[2, 1]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,stone_slab,6,,['stone'],[3],[1.0]
+minecraft:stonecutting,stone_slab,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,stone_stairs,4,,['stone'],[6],[1.0]
+minecraft:stonecutting,stone_stairs,1,,['stone'],[1],[1.0]
+minecraft:crafting_shaped,stone_sword,1,,"['stick', 'stone_tool_materials']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,stripped_acacia_wood,3,bark,['stripped_acacia_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_birch_wood,3,bark,['stripped_birch_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_crimson_hyphae,3,bark,['stripped_crimson_stem'],[4],[1.0]
+minecraft:crafting_shaped,stripped_dark_oak_wood,3,bark,['stripped_dark_oak_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_jungle_wood,3,bark,['stripped_jungle_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_mangrove_wood,3,bark,['stripped_mangrove_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_oak_wood,3,bark,['stripped_oak_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_spruce_wood,3,bark,['stripped_spruce_log'],[4],[1.0]
+minecraft:crafting_shaped,stripped_warped_hyphae,3,bark,['stripped_warped_stem'],[4],[1.0]
+minecraft:crafting_shapeless,sugar,3,sugar,['honey_bottle'],[1],[1.0]
+minecraft:crafting_shapeless,sugar,1,sugar,['sugar_cane'],[1],[1.0]
+minecraft:crafting_shaped,target,1,,"['hay_block', 'redstone']","[1, 4]","[0.2, 0.8]"
+minecraft:smelting,terracotta,1,,['clay'],[1],[1.0]
+minecraft:crafting_shaped,tinted_glass,2,,"['glass', 'amethyst_shard']","[1, 4]","[0.2, 0.8]"
+minecraft:crafting_shaped,tnt,1,,"[['sand', 'red_sand'], 'gunpowder']","[4, 5]","[0.4444444444444444, 0.5555555555555556]"
+minecraft:crafting_shapeless,tnt_minecart,1,,"['tnt', 'minecart']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,torch,4,,"['stick', ['coal', 'charcoal']]","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,trapped_chest,1,,"['chest', 'tripwire_hook']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,tripwire_hook,2,,"['planks', 'iron_ingot', 'stick']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shaped,turtle_helmet,1,,['scute'],[5],[1.0]
+minecraft:crafting_shapeless,warped_button,1,wooden_button,['warped_planks'],[1],[1.0]
+minecraft:crafting_shaped,warped_door,3,wooden_door,['warped_planks'],[6],[1.0]
+minecraft:crafting_shaped,warped_fence,3,wooden_fence,"['stick', 'warped_planks']","[2, 4]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shaped,warped_fence_gate,1,wooden_fence_gate,"['stick', 'warped_planks']","[4, 2]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,warped_fungus_on_a_stick,1,,"['fishing_rod', 'warped_fungus']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,warped_hyphae,3,bark,['warped_stem'],[4],[1.0]
+minecraft:crafting_shapeless,warped_planks,4,planks,['warped_stems'],[1],[1.0]
+minecraft:crafting_shaped,warped_pressure_plate,1,wooden_pressure_plate,['warped_planks'],[2],[1.0]
+minecraft:crafting_shaped,warped_sign,3,wooden_sign,"['warped_planks', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,warped_slab,6,wooden_slab,['warped_planks'],[3],[1.0]
+minecraft:crafting_shaped,warped_stairs,4,wooden_stairs,['warped_planks'],[6],[1.0]
+minecraft:crafting_shaped,warped_trapdoor,2,wooden_trapdoor,['warped_planks'],[6],[1.0]
+minecraft:crafting_shapeless,waxed_copper_block,1,waxed_copper_block,"['copper_block', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,waxed_cut_copper,4,waxed_cut_copper,['waxed_copper_block'],[4],[1.0]
+minecraft:crafting_shapeless,waxed_cut_copper,1,waxed_cut_copper,"['cut_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_cut_copper,1,,['waxed_copper_block'],[1],[1.0]
+minecraft:crafting_shaped,waxed_cut_copper_slab,6,waxed_cut_copper_slab,['waxed_cut_copper'],[3],[1.0]
+minecraft:crafting_shapeless,waxed_cut_copper_slab,1,waxed_cut_copper_slab,"['cut_copper_slab', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_cut_copper_slab,1,,['waxed_copper_block'],[1],[1.0]
+minecraft:stonecutting,waxed_cut_copper_slab,1,,['waxed_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_cut_copper_stairs,4,waxed_cut_copper_stairs,['waxed_cut_copper'],[6],[1.0]
+minecraft:crafting_shapeless,waxed_cut_copper_stairs,1,waxed_cut_copper_stairs,"['cut_copper_stairs', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_cut_copper_stairs,1,,['waxed_copper_block'],[1],[1.0]
+minecraft:stonecutting,waxed_cut_copper_stairs,1,,['waxed_cut_copper'],[1],[1.0]
+minecraft:crafting_shapeless,waxed_exposed_copper,1,waxed_exposed_copper,"['exposed_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,waxed_exposed_cut_copper,4,waxed_exposed_cut_copper,['waxed_exposed_copper'],[4],[1.0]
+minecraft:crafting_shapeless,waxed_exposed_cut_copper,1,waxed_exposed_cut_copper,"['exposed_cut_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_exposed_cut_copper,1,,['waxed_exposed_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_exposed_cut_copper_slab,6,waxed_exposed_cut_copper_slab,['waxed_exposed_cut_copper'],[3],[1.0]
+minecraft:crafting_shapeless,waxed_exposed_cut_copper_slab,1,waxed_exposed_cut_copper_slab,"['exposed_cut_copper_slab', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_exposed_cut_copper_slab,1,,['waxed_exposed_copper'],[1],[1.0]
+minecraft:stonecutting,waxed_exposed_cut_copper_slab,1,,['waxed_exposed_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_exposed_cut_copper_stairs,4,waxed_exposed_cut_copper_stairs,['waxed_exposed_cut_copper'],[6],[1.0]
+minecraft:crafting_shapeless,waxed_exposed_cut_copper_stairs,1,waxed_exposed_cut_copper_stairs,"['exposed_cut_copper_stairs', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_exposed_cut_copper_stairs,1,,['waxed_exposed_copper'],[1],[1.0]
+minecraft:stonecutting,waxed_exposed_cut_copper_stairs,1,,['waxed_exposed_cut_copper'],[1],[1.0]
+minecraft:crafting_shapeless,waxed_oxidized_copper,1,waxed_oxidized_copper,"['oxidized_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,waxed_oxidized_cut_copper,4,waxed_oxidized_cut_copper,['waxed_oxidized_copper'],[4],[1.0]
+minecraft:crafting_shapeless,waxed_oxidized_cut_copper,1,waxed_oxidized_cut_copper,"['oxidized_cut_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_oxidized_cut_copper,1,,['waxed_oxidized_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_oxidized_cut_copper_slab,6,waxed_oxidized_cut_copper_slab,['waxed_oxidized_cut_copper'],[3],[1.0]
+minecraft:crafting_shapeless,waxed_oxidized_cut_copper_slab,1,waxed_oxidized_cut_copper_slab,"['oxidized_cut_copper_slab', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_oxidized_cut_copper_slab,1,,['waxed_oxidized_copper'],[1],[1.0]
+minecraft:stonecutting,waxed_oxidized_cut_copper_slab,1,,['waxed_oxidized_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_oxidized_cut_copper_stairs,4,waxed_oxidized_cut_copper_stairs,['waxed_oxidized_cut_copper'],[6],[1.0]
+minecraft:crafting_shapeless,waxed_oxidized_cut_copper_stairs,1,waxed_oxidized_cut_copper_stairs,"['oxidized_cut_copper_stairs', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_oxidized_cut_copper_stairs,1,,['waxed_oxidized_copper'],[1],[1.0]
+minecraft:stonecutting,waxed_oxidized_cut_copper_stairs,1,,['waxed_oxidized_cut_copper'],[1],[1.0]
+minecraft:crafting_shapeless,waxed_weathered_copper,1,waxed_weathered_copper,"['weathered_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,waxed_weathered_cut_copper,4,waxed_weathered_cut_copper,['waxed_weathered_copper'],[4],[1.0]
+minecraft:crafting_shapeless,waxed_weathered_cut_copper,1,waxed_weathered_cut_copper,"['weathered_cut_copper', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_weathered_cut_copper,1,,['waxed_weathered_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_weathered_cut_copper_slab,6,waxed_weathered_cut_copper_slab,['waxed_weathered_cut_copper'],[3],[1.0]
+minecraft:crafting_shapeless,waxed_weathered_cut_copper_slab,1,waxed_weathered_cut_copper_slab,"['weathered_cut_copper_slab', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_weathered_cut_copper_slab,1,,['waxed_weathered_copper'],[1],[1.0]
+minecraft:stonecutting,waxed_weathered_cut_copper_slab,1,,['waxed_weathered_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,waxed_weathered_cut_copper_stairs,4,waxed_weathered_cut_copper_stairs,['waxed_weathered_cut_copper'],[6],[1.0]
+minecraft:crafting_shapeless,waxed_weathered_cut_copper_stairs,1,waxed_weathered_cut_copper_stairs,"['weathered_cut_copper_stairs', 'honeycomb']","[1, 1]","[0.5, 0.5]"
+minecraft:stonecutting,waxed_weathered_cut_copper_stairs,1,,['waxed_weathered_copper'],[1],[1.0]
+minecraft:stonecutting,waxed_weathered_cut_copper_stairs,1,,['waxed_weathered_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,weathered_cut_copper,4,,['weathered_copper'],[4],[1.0]
+minecraft:stonecutting,weathered_cut_copper,1,,['weathered_copper'],[1],[1.0]
+minecraft:crafting_shaped,weathered_cut_copper_slab,6,,['weathered_cut_copper'],[3],[1.0]
+minecraft:stonecutting,weathered_cut_copper_slab,1,,['weathered_copper'],[1],[1.0]
+minecraft:stonecutting,weathered_cut_copper_slab,1,,['weathered_cut_copper'],[1],[1.0]
+minecraft:crafting_shaped,weathered_cut_copper_stairs,4,,['weathered_cut_copper'],[6],[1.0]
+minecraft:stonecutting,weathered_cut_copper_stairs,1,,['weathered_copper'],[1],[1.0]
+minecraft:stonecutting,weathered_cut_copper_stairs,1,,['weathered_cut_copper'],[1],[1.0]
+minecraft:crafting_shapeless,wheat,9,,['hay_block'],[1],[1.0]
+minecraft:crafting_shaped,white_banner,1,banner,"['white_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,white_bed,1,bed,"['white_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,white_candle,1,dyed_candle,"['candle', 'white_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,white_carpet,3,carpet,['white_wool'],[2],[1.0]
+minecraft:crafting_shapeless,white_concrete_powder,8,concrete_powder,"['white_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,white_dye,1,white_dye,['bone_meal'],[1],[1.0]
+minecraft:crafting_shapeless,white_dye,1,white_dye,['lily_of_the_valley'],[1],[1.0]
+minecraft:smelting,white_glazed_terracotta,1,,['white_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,white_stained_glass,8,stained_glass,"['glass', 'white_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,white_stained_glass_pane,16,stained_glass_pane,['white_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,white_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'white_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,white_terracotta,8,stained_terracotta,"['terracotta', 'white_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,white_wool,1,,['string'],[4],[1.0]
+minecraft:crafting_shaped,wooden_axe,1,,"['stick', 'planks']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,wooden_hoe,1,,"['stick', 'planks']","[2, 2]","[0.5, 0.5]"
+minecraft:crafting_shaped,wooden_pickaxe,1,,"['stick', 'planks']","[2, 3]","[0.4, 0.6]"
+minecraft:crafting_shaped,wooden_shovel,1,,"['stick', 'planks']","[2, 1]","[0.6666666666666666, 0.3333333333333333]"
+minecraft:crafting_shaped,wooden_sword,1,,"['stick', 'planks']","[1, 2]","[0.3333333333333333, 0.6666666666666666]"
+minecraft:crafting_shapeless,writable_book,1,,"['book', 'ink_sac', 'feather']","[1, 1, 1]","[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]"
+minecraft:crafting_shaped,yellow_banner,1,banner,"['yellow_wool', 'stick']","[6, 1]","[0.8571428571428571, 0.14285714285714285]"
+minecraft:crafting_shaped,yellow_bed,1,bed,"['yellow_wool', 'planks']","[3, 3]","[0.5, 0.5]"
+minecraft:crafting_shapeless,yellow_bed,1,dyed_bed,"['white_bed', 'yellow_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shapeless,yellow_candle,1,dyed_candle,"['candle', 'yellow_dye']","[1, 1]","[0.5, 0.5]"
+minecraft:crafting_shaped,yellow_carpet,3,carpet,['yellow_wool'],[2],[1.0]
+minecraft:crafting_shaped,yellow_carpet,8,carpet,"['white_carpet', 'yellow_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,yellow_concrete_powder,8,concrete_powder,"['yellow_dye', 'sand', 'gravel']","[1, 4, 4]","[0.1111111111111111, 0.4444444444444444, 0.4444444444444444]"
+minecraft:crafting_shapeless,yellow_dye,1,yellow_dye,['dandelion'],[1],[1.0]
+minecraft:crafting_shapeless,yellow_dye,2,yellow_dye,['sunflower'],[1],[1.0]
+minecraft:smelting,yellow_glazed_terracotta,1,,['yellow_terracotta'],[1],[1.0]
+minecraft:crafting_shaped,yellow_stained_glass,8,stained_glass,"['glass', 'yellow_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,yellow_stained_glass_pane,16,stained_glass_pane,['yellow_stained_glass'],[6],[1.0]
+minecraft:crafting_shaped,yellow_stained_glass_pane,8,stained_glass_pane,"['glass_pane', 'yellow_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shaped,yellow_terracotta,8,stained_terracotta,"['terracotta', 'yellow_dye']","[8, 1]","[0.8888888888888888, 0.1111111111111111]"
+minecraft:crafting_shapeless,yellow_wool,1,wool,"['yellow_dye', 'white_wool']","[1, 1]","[0.5, 0.5]"
